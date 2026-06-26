@@ -18,13 +18,12 @@
                 "security": "reality",
                 "realitySettings": {
                     "show": false,
-                    "dest": "www.play.google.com:443",
+                    "dest": "play.google.com:443",
                     "xver": 0,
                     "serverNames": [
-                        "www.play.google.com",
                         "play.google.com"
                     ],
-                    "privateKey": "eG15X3ByaXZhdGVfa2V5X2dlbmVyYXRlZF9ieV95b3VyX3Rvb2w=",
+                    "privateKey": "u9-X_D6h4A_L0eP_u6N5m_wQ2r_t1y3u5i7o9p1a3s5=",
                     "shortIds": [
                         "0123456789abcdef"
                     ]
